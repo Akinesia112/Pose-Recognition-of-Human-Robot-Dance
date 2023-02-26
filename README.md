@@ -29,8 +29,3 @@ It support RA620-1739 & RT605-710-GB on current version.
 
 For instructions on installing Grasshopper Add-Ons, please see:
 https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin  
-
-
-
-OCT 11, 2022  
-Hsu,Jia-Shuo (hjshuo54)
