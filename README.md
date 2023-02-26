@@ -1,6 +1,6 @@
 # Pose_Recognition_of_Human-Robot_Dance
 
-Project Ip (Island Performance): The Creation Plan Based on the Translation of Techno Art Scene and Cross-Disciplinary Collaboration - Matsu Islands as a Demo Site.
+**Project Ip (Island Performance): The Creation Plan Based on the Translation of Techno Art Scene and Cross-Disciplinary Collaboration - Matsu Islands as a Demo Site.**
 
  [![Watch the video](https://img.youtube.com/vi/wLQhuWOznzU/maxresdefault.jpg)](https://youtu.be/wLQhuWOznzU)
  
