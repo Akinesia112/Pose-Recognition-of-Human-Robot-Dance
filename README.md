@@ -4,11 +4,11 @@ Project Ip (Island Performance): The Creation Plan Based on the Translation of T
 
  [![Watch the video](https://img.youtube.com/vi/wLQhuWOznzU/maxresdefault.jpg)](https://youtu.be/wLQhuWOznzU)
  
- *Demo of Skeleton Recognition by MediaPipe
+ * Demo of Skeleton Recognition by MediaPipe
  
  [![Watch the video](https://img.youtube.com/vi/e3KwNWLQLH4/maxresdefault.jpg)](https://youtu.be/e3KwNWLQLH4)
 
- *Demo of Time Series Forecasting by LSTM
+ * Demo of Time Series Forecasting by LSTM
 
 # Raccoon_hiwin_GH_plug-in
 
