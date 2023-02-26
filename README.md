@@ -13,7 +13,9 @@
   ![image](LSTM_Predicted_and_Actual_Value.png) 
 
   * Predicted Value and Actual Value of LSTM
+  
   **The root mean squared error of each axis are 0.68, 0.73, and 4.01 in validation, respectively.**
+  
   ##The Loss between Predicted Value and Actual Value are negligibly small 
 
 # Raccoon_hiwin_GH_plug-in
