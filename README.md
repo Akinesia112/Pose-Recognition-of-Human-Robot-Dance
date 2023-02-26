@@ -9,10 +9,8 @@
  [![Watch the video](https://img.youtube.com/vi/e3KwNWLQLH4/maxresdefault.jpg)](https://youtu.be/e3KwNWLQLH4)
 
  * Demo of Time Series Forecasting by LSTM
- 
- 
 
-  ![image](LSTM Predicted Value and Actual Value.png) 
+  ![image](LSTM_Predicted_and_Actual_Value.png) 
 
   * Predicted Value and Actual Valueof LSTM
 
