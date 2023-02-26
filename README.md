@@ -16,7 +16,7 @@
   
   **The root mean squared error of each axis are 0.68, 0.73, and 4.01 in validation, respectively.**
   
-  ##The Loss between Predicted Value and Actual Value are negligibly small 
+  **The Loss between Predicted Value and Actual Value are negligibly small.** 
 
 # Raccoon_hiwin_GH_plug-in
 
