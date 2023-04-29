@@ -38,14 +38,5 @@ It support RA620-1739 & RT605-710-GB on current version.
 **(Create .hrb file)**
 ![Create Hrb](/img_file/05.gif "Create Hrb")
 
-
-
-
-****
-
-
 ![Create Hrb](/img_file/inter.png "Create Hrb")
-**We accept no responsibility for damage or injury, so please check your hrb file carefully before running.**  
 
-For instructions on installing Grasshopper Add-Ons, please see:
-https://www.food4rhino.com/en/faq#users-install-grasshopper-plugin  
