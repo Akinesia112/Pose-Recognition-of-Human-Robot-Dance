@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HRSIM_DATA version="1.0">
+  <Robot>
+    <number_of_robot>1</number_of_robot>
+    <index_of_robot>0,</index_of_robot>
+    <robot_type_list>12</robot_type_list>
+    <robot_enable>True</robot_enable>
+    <robot_show>True</robot_show>
+    <robot_offset>0, 0, 630</robot_offset>
+    <robot_rotate>0, 0, 0</robot_rotate>
+    <robot_do_comment>, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , </robot_do_comment>
+    <robot_do_function>, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , </robot_do_function>
+    <robot_di_comment>, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , </robot_di_comment>
+    <robot_counter_comment>, , , , , , , , , , , , , , , , , , , </robot_counter_comment>
+    <robot_counter_function>, , , , , , , , , , , , , , , , , , , </robot_counter_function>
+    <robot_di_setting>0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, </robot_di_setting>
+  </Robot>
+  <Floor_Parameter>
+    <grid_qua_W>2</grid_qua_W>
+    <grid_qua_L>2</grid_qua_L>
+    <offset_z_floor>0</offset_z_floor>
+    <floor_hide>False</floor_hide>
+  </Floor_Parameter>
+  <Coordinate_Parameter>
+    <robot_base_coordinate_scale>2</robot_base_coordinate_scale>
+    <robot_tool_coordinate_scale>1</robot_tool_coordinate_scale>
+    <robot_tool_part_coordinate_scale>1</robot_tool_part_coordinate_scale>
+    <ex_coordinate_scale>2</ex_coordinate_scale>
+    <object_coordinate_scale>2</object_coordinate_scale>
+    <workpiece_coordinate_scale>1</workpiece_coordinate_scale>
+    <point_coordinate_scale>1</point_coordinate_scale>
+    <robot_base_coordinate_enable>True</robot_base_coordinate_enable>
+    <robot_tool_coordinate_enable>True</robot_tool_coordinate_enable>
+    <robot_tool_part_coordinate_enable>True</robot_tool_part_coordinate_enable>
+    <ex_coordinate_enable>True</ex_coordinate_enable>
+    <object_coordinate_enable>True</object_coordinate_enable>
+    <workpiece_coordinate_enable>True</workpiece_coordinate_enable>
+    <point_coordinate_enable>True</point_coordinate_enable>
+  </Coordinate_Parameter>
+  <EXT_Parameter>
+    <robot1 Group_ex_type="0">
+      <external Visible="False" Show1="False" Show2="False" File_Move="" File_Base="" Couple="False" Group="0" Type="0" Direction="0" Direction_p_n="1" X="0" Y="0" Z="0" RX="0" RY="0" RZ="0" Center_X="0" Center_Y="0" Center_Z="0" Object1="-1" Object2="-1" R1="0.6" G1="0.6" B1="0.6" R2="0.6" G2="0.6" B2="0.6" />
+      <external Visible="False" Show1="False" Show2="False" File_Move="" File_Base="" Couple="False" Group="0" Type="0" Direction="0" Direction_p_n="1" X="0" Y="0" Z="0" RX="0" RY="0" RZ="0" Center_X="0" Center_Y="0" Center_Z="0" Object1="-1" Object2="-1" R1="0.6" G1="0.6" B1="0.6" R2="0.6" G2="0.6" B2="0.6" />
+      <external Visible="False" Show1="False" Show2="False" File_Move="" File_Base="" Couple="False" Group="0" Type="0" Direction="0" Direction_p_n="1" X="0" Y="0" Z="0" RX="0" RY="0" RZ="0" Center_X="0" Center_Y="0" Center_Z="0" Object1="-1" Object2="-1" R1="0.6" G1="0.6" B1="0.6" R2="0.6" G2="0.6" B2="0.6" />
+    </robot1>
+  </EXT_Parameter>
+  <Object_Parameter>
+    <object ID="100" File_Name="Ｂａｓｅ.stl" R="0.6" G="0.6" B="0.6" A="1" X="0" Y="0" Z="615" RX="0" RY="0" RZ="90" Visible="True" Group_Type="2" Group="0" Robot_ID="-1" Next="" Parent="-1" Accessory_Length="0" Accessory_Width="0" Accessory_Height="0" />
+    <object ID="102" File_Name="夾具終版.stl" R="0.6" G="0.6" B="0.6" A="1" X="0" Y="0" Z="0" RX="0" RY="0" RZ="0" Visible="True" Group_Type="3" Group="7" Robot_ID="0" Next="" Parent="-1" Accessory_Length="0" Accessory_Width="0" Accessory_Height="0" />
+    <object ID="103" File_Name="棍子.stl" R="0.6" G="0.6" B="0.6" A="1" X="0" Y="0" Z="0" RX="0" RY="180" RZ="0" Visible="True" Group_Type="3" Group="7" Robot_ID="0" Next="" Parent="-1" Accessory_Length="0" Accessory_Width="0" Accessory_Height="0" />
+  </Object_Parameter>
+  <Workpiece_Parameter />
+  <Workpiece_base_Parameter>
+    <base />
+  </Workpiece_base_Parameter>
+  <Robot_Tool_Parameter>
+    <robot_tool Group_Type="0" Visible="True" Group="" />
+    <robot_tool Group_Type="0" Visible="True" Group="" />
+  </Robot_Tool_Parameter>
+  <Equipment_Parameter>
+    <equipment Name="Dance_basic_Equipment" Visible="True" Group="100" DI_Num="2" DO_Num="2" Group_Type="0" />
+    <equipment Name="Dance_basic_Gripper" Visible="True" Group="" DI_Num="1" DO_Num="1" Group_Type="0" />
+    <equipment Name="Dance_basic_Gripper" Visible="True" Group="" DI_Num="1" DO_Num="1" Group_Type="0" />
+  </Equipment_Parameter>
+  <Aligner_Parameter />
+  <Loadport_Parameter />
+  <Foup_Parameter />
+  <Conveyor_Parameter />
+  <Pattern_Parameter />
+  <PathTree />
+  <IO_Mapping />
+  <Delete_calllist>
+    <Calllist>101</Calllist>
+  </Delete_calllist>
+  <CustomColor>
+    <color>16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215,16777215</color>
+  </CustomColor>
+  <ViewSetting>
+    <color>1,0</color>
+  </ViewSetting>
+  <TimerSetting>
+    <Timer1 Robot_Index="0" Timer_Index="0" Size="12" Name="run" Show="True" />
+    <Timer2 Robot_Index="-1" Timer_Index="0" Size="12" Name="" Show="False" />
+    <Timer3 Robot_Index="-1" Timer_Index="0" Size="12" Name="" Show="False" />
+  </TimerSetting>
+  <call_list>104</call_list>
+</HRSIM_DATA>
